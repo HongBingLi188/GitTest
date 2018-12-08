@@ -26,5 +26,15 @@ namespace GitTest
         #region MyRegion
 
         #endregion
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("MessageBox1");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("MessageBox2");
+        }
     }
 }
