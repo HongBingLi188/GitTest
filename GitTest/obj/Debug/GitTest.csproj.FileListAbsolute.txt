@@ -7,3 +7,4 @@ C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.csproj.Generate
 C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
 C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.exe
 C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.Form1.resources
