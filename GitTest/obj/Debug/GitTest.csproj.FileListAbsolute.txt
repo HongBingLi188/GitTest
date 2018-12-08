@@ -1,0 +1,9 @@
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.csprojAssemblyReference.cache
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.cache
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\cmerp\Desktop\GitTest\GitTest\GitTest\obj\Debug\GitTest.pdb
